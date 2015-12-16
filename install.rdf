@@ -4,7 +4,7 @@
      xmlns:em="http://www.mozilla.org/2004/em-rdf#">
   <Description about="urn:mozilla:install-manifest">
     <em:id>eu@dictionaries.addons.mozilla.org</em:id>
-    <em:version>5.0.2</em:version>
+    <em:version>5.0.3</em:version>
     <em:name>Xuxen</em:name>
     <em:type>64</em:type>em:type>
     <em:unpack>true</em:unpack>
